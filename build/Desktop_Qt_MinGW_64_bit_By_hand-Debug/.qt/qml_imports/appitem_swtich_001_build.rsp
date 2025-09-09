@@ -1,0 +1,14 @@
+-rootPath
+D:/Qt/qt_projects/qt_tests/item_swtich_001
+-cmake-output
+-output-file
+D:/Qt/qt_projects/qt_tests/item_swtich_001/build/Desktop_Qt_MinGW_64_bit_By_hand-Debug/.qt/qml_imports/appitem_swtich_001_build.cmake
+-importPath
+D:/Qt/qt_projects/qt_tests/item_swtich_001/build/Desktop_Qt_MinGW_64_bit_By_hand-Debug/item_swtich_001
+-importPath
+D:/Qt/qt_projects/qt_tests/item_swtich_001/build/Desktop_Qt_MinGW_64_bit_By_hand-Debug
+-importPath
+C:/Qt/Commu6.9/6.9.1/mingw_64/qml
+-qrcFiles
+D:/Qt/qt_projects/qt_tests/item_swtich_001/build/Desktop_Qt_MinGW_64_bit_By_hand-Debug/.qt/rcc/qmake_item_swtich_001.qrc
+D:/Qt/qt_projects/qt_tests/item_swtich_001/build/Desktop_Qt_MinGW_64_bit_By_hand-Debug/.qt/rcc/appitem_swtich_001_raw_qml_0.qrc
