@@ -1,5 +1,0 @@
-module item_swtich_001
-typeinfo appitem_swtich_001.qmltypes
-prefer :/qt/qml/item_swtich_001/
-Main 1.0 Main.qml
-
