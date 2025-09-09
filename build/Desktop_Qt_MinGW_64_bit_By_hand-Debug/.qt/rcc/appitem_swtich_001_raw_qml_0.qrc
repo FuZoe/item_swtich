@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/qt/qml/item_swtich_001/">
-    <file alias="Main.qml">D:/Qt/qt_projects/qt_tests/item_swtich_001/Main.qml</file>
-  </qresource>
-</RCC>
-
