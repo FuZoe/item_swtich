@@ -18,6 +18,7 @@ qt_add_qml_module(appitem_swtich_001
     VERSION 1.0
     QML_FILES
         Main.qml
+        ItemSwitch.qml
 )
 
 # Qt for iOS sets MACOSX_BUNDLE_GUI_IDENTIFIER automatically since Qt 6.1.
